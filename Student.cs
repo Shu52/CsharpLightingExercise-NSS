@@ -2,13 +2,11 @@ using System;
 using System.Collections.Generic;
 
 namespace Lighting{
-    public class Student{
-    private string _firstName;
-    private string _lastName;
-
-    public string FullName {get => $"{_firstName} {_lastName}";}
+    public class Student:Person{
     public List<Exercise> AssignedExercises {get;} = new List<Exercise>();
-    public Student (string firstName, string lastName){
+    
+    public Student(string firstName, string lastName)
+        {
             _firstName = firstName;
             _lastName = lastName;
         }

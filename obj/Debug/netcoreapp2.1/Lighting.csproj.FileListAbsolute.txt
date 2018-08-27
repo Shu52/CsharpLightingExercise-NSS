@@ -1,0 +1,11 @@
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/bin/Debug/netcoreapp2.1/Lighting.deps.json
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/bin/Debug/netcoreapp2.1/Lighting.runtimeconfig.json
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/bin/Debug/netcoreapp2.1/Lighting.runtimeconfig.dev.json
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/bin/Debug/netcoreapp2.1/Lighting.dll
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/bin/Debug/netcoreapp2.1/Lighting.pdb
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/obj/Debug/netcoreapp2.1/Lighting.csprojAssemblyReference.cache
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/obj/Debug/netcoreapp2.1/Lighting.csproj.CoreCompileInputs.cache
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/obj/Debug/netcoreapp2.1/Lighting.AssemblyInfoInputs.cache
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/obj/Debug/netcoreapp2.1/Lighting.AssemblyInfo.cs
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/obj/Debug/netcoreapp2.1/Lighting.dll
+/home/shu/workspace/csharp/exercises/lightingExercises/Lighting/obj/Debug/netcoreapp2.1/Lighting.pdb
